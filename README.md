@@ -1,50 +1,36 @@
-# 👋 Hi, I'm Mayuri Wagh
+# Hi, I'm Mayuri 👋
 
-💻 Full-Stack Developer | React • .NET • SQL  
-📍 Nashik, India  
+Co-Founder & Full-Stack Developer at Phronix
 
----
+I build production software that solves real problems —
+not tutorial projects, not side projects. Real clients, real users, real code.
 
-## 🚀 About Me
-- 🔭 Working on personal projects, freelance work & real-world applications  
-- 🤝 Open to collaborating on web apps, AI/ML & mobile apps  
-- 🌱 Learning DevOps, Cloud & AI/ML  
-- 💬 Ask me about development, APIs, or system design  
-- ⚡ Fun fact: I debug faster than I code 😄  
+## 🚀 What I've shipped
 
----
+- **Doctify** — Clinical OPD management system. Live across hospitals.
+  Patient records, prescriptions, vitals, auto-print workflows.
+- **MillOps** — Mill inventory & billing system. 2 paying clients.
+  Replaced Excel chaos with one system they use daily.
+- **FactSnap** — React Native app. Live on Google Play Store.
+  [Download here](https://play.google.com/store/apps/details?id=com.factsnap.learn&hl=en_IN)
+- **Mahasahyadri** — Regional Marathi news portal.
 
-## 🛠 Tech Stack
+## 🛠️ My Stack
 
-**Frontend:**  
-React.js, Next.js, HTML, CSS, Tailwind  
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Zustand, React Native
 
-**Backend:**  
-.NET, Node.js, Java  
+**Backend:** Node.js, Express.js, REST APIs, GraphQL, WebSocket
 
-**Database:**  
-SQL Server, MySQL, PostgreSQL, SQLite  
+**Databases:** PostgreSQL, MongoDB, SQLite, Prisma ORM
 
-**Tools & Others:**  
-Git, Docker, AWS, Figma  
+**DevOps:** Docker, GitHub Actions CI/CD, AWS (EC2, S3), Redis
 
----
+**AI/LLM:** Claude API, OpenAI API, Streaming chatbots
 
-## 📊 GitHub Stats
-![Mayuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayuriWagh&show_icons=true&theme=github_dark)
+## 📜 Certifications
+- AWS Certified Cloud Practitioner
+- Anthropic AI Fluency + Claude 101
 
----
-
-## 🌟 Highlight Projects
-- **Oil Mill Management System** – Desktop app for managing sales, stock & reports  
-- **Crowd-Assisted Music Platform** – Real-time music collaboration using Socket.IO  
-
----
-
-## 🤝 Let's Connect
-📧 mayuriwagh19072002@gmail.com  
-🔗 LinkedIn | Portfolio  
-
----
-
-✨ *Always building, learning, and improving.*
+## 📫 Let's connect
+- LinkedIn: [mayuri-wagh](https://www.linkedin.com/in/mayuri-wagh-9602a128b/)
+- Email: mayuriwagh19072002@gmail.com
